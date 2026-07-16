@@ -32,7 +32,7 @@ G68477-2026 鶴岡　温人
 
 ![八王子キャンパス](hachioji.jpg)
 
-学科詳細ページ:[https://www.takushoku-u.ac.jp](README.md)
+[学科詳細ページ](https://feng.takushoku-u.ac.jp/course/cs/)
 
 ## まとめ
 
@@ -45,7 +45,7 @@ G68477-2026 鶴岡　温人
 <!-- この部分より上に記述を追加して下のチェックボックスで確認する -->
 - [ ] 教員またはSAのチェックをパスした．
 - [x] 2種類以上の見出し(headers)を使っている．
-- [ ] 2種類以上の強調(emphasis)を使っている．
+- [x] 2種類以上の強調(emphasis)を使っている．
 - [x] (番号付きの)リスト(ordered lists)を使っている
 - [x] (番号無しの)リスト(unordered lists)を使っている．
 - [x] 1つ以上の画像(images)を使っている．
